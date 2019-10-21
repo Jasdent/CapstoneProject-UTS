@@ -1,4 +1,4 @@
-# CapstoneProject-UTS
+# Capstone
 Spatial Features Detection and Measurement
 Augmented Reality Kit from Apple + HardNet*
 It is a project in which I am as contributor on github.
